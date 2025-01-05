@@ -47,7 +47,8 @@ The app uses the following dependencies:
 4. Build and run the app on an emulator or physical device.
 
 ## Screenshots
-![Uploading image.png…]()
+![Alt Text]([image_url](https://drive.google.com/file/d/1CHtlkpmf59utguJLQJnTrcy2L9-wd0m6/view?usp=sharing))
+
 
 
 ## Learning Outcomes
